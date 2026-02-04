@@ -1,0 +1,7 @@
+todo feature 
+1 add task
+2.view task
+3.remove task
+4.exit
+
+input : user input 
